@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">CustomAdapter</string>
+
+    <string-array name="android_version">
+        <item>History</item>
+        <item>Chemistry</item>
+        <item>Physics</item>
+        <item>Mathematics</item>
+        <item>ComputerScience</item>
+        <item>Computer</item>
+        <item>Science</item>
+        <item>Biology</item>
+        <item>Civics</item>
+        <item>Polity</item>
+        <item>SocialScience</item>
+        <item>Social</item>
+        <item>CurrentAffairs</item>
+        <item>Affairs</item>
+    </string-array>
 </resources>
